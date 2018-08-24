@@ -2,7 +2,7 @@
 
 要了解jsonp.首先要了解同源策略，什么是同源策略呢？
 
-##同源策略(Same Origin Policy)
+## 同源策略(Same Origin Policy)
 
 浏览器出于安全方面的考虑，只允许与同域下的接口交互。
 也就是说javascript只可以操作自己域下的东西，不能操作其他域下的东西。比如百度下javascript是不可操作谷歌下的页面。
